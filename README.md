@@ -1,3 +1,3 @@
 # Pixel Effect
 
-Utilizando JS para crear una imagen con efecto de flujo de pixeles.
+Utilizando JS para recrear una imagen modificar los valores de cada pixel.
